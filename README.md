@@ -1,0 +1,1 @@
+Demo for bug report: [Race condition when calling `chrome.runtime.connect` and immediately sending message](https://orionfeedback.org/d/4011-race-condition-when-calling-chromeruntimeconnect-and-immediately-sending-message)
